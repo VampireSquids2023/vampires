@@ -1,0 +1,1 @@
+import{j as e,c as t,R as n}from"./index-6cd4ef99.js";function s(){return e.jsxs("div",{className:"text-gray-400 container text-center",children:["what's in season?",e.jsx("br",{}),"Coming soon ..."]})}t.createRoot(document.getElementById("root")).render(e.jsx(n.StrictMode,{children:e.jsx(s,{})}));
