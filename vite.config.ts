@@ -12,6 +12,7 @@ export default defineConfig({
         main: resolve(__dirname, 'index.html'),
         test: resolve(__dirname, 'whats-in-season/index.html'),
         reviewIt: resolve(__dirname, 'review-it/index.html'),
+        rubyRhythm: resolve(__dirname, 'ruby-rhythm/index.html'),
         privacy: resolve(__dirname, 'privacy/index.html'),
       },
     },
